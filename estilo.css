@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+:root{
+    --fonte-primaria: "Roboto", sans-serif,
+}
+main{
+    background-image: linear-gradient(90deg, rgba(115,220,247,1) 0%, rgba(194,152,231,1) 65%, rgba(0,212,255,1) 100%);
+}
+
