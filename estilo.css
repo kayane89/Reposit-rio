@@ -7,6 +7,5 @@
     --fonte-primaria: "Roboto", sans-serif,
 }
 main{
-    background-image: linear-gradient(90deg, rgba(115,220,247,1) 0%, rgba(194,152,231,1) 65%, rgba(0,212,255,1) 100%);
-}
-
+    background-image: linear-gradient(90deg, rgb(12, 90, 207) 8%, rgb(132, 123, 255) 14%, rgba(80,71,207,1) 100%
+)}
